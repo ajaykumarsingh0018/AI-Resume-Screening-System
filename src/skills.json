@@ -1,0 +1,66 @@
+[
+  "python", "java", "c", "c++", "c#", "javascript", "typescript",
+  "go", "rust", "kotlin", "swift", "php", "ruby",
+
+  "html", "css", "sass", "bootstrap", "tailwind",
+  "react", "angular", "vue", "nextjs", "nodejs", "express",
+
+  "django", "flask", "fastapi", "spring", "spring boot",
+  "laravel", "asp.net",
+
+  "sql", "mysql", "postgresql", "mongodb", "redis",
+  "oracle", "sqlite", "firebase", "dynamodb",
+
+  "machine learning", "deep learning", "nlp",
+  "natural language processing", "computer vision",
+  "data science", "data analysis", "data engineering",
+  "feature engineering", "model deployment",
+
+  "tensorflow", "pytorch", "keras", "scikit-learn",
+  "xgboost", "lightgbm", "opencv",
+
+  "pandas", "numpy", "matplotlib", "seaborn",
+  "plotly", "scipy",
+
+  "aws", "azure", "gcp", "google cloud",
+  "ec2", "s3", "lambda", "cloudwatch",
+  "azure devops",
+
+  "docker", "kubernetes", "terraform",
+  "ansible", "jenkins", "ci/cd", "github actions",
+
+  "git", "github", "gitlab", "bitbucket",
+
+  "rest api", "graphql", "microservices",
+  "api development", "api integration",
+
+  "linux", "unix", "bash", "shell scripting",
+
+  "hadoop", "spark", "kafka", "airflow",
+  "hive", "pig",
+
+  "power bi", "tableau", "looker",
+
+  "cybersecurity", "penetration testing",
+  "ethical hacking", "tryhackme",
+  "network security", "cryptography",
+
+  "oop", "object oriented programming",
+  "design patterns", "system design",
+
+  "agile", "scrum", "jira",
+
+  "streamlit", "gradio", "mlflow",
+  "huggingface", "langchain",
+
+  "blockchain", "solidity",
+  "smart contracts",
+
+  "android", "ios",
+  "react native", "flutter",
+
+  "selenium", "pytest", "junit",
+
+  "big data", "data warehouse",
+  "etl", "data pipelines"
+]

@@ -1,0 +1,14 @@
+sentence-transformers
+scikit-learn
+streamlit
+numpy==1.26.4
+streamlit
+pandas
+numpy
+PyPDF2
+scikit-learn
+sentence-transformers
+spacy
+matplotlib
+spacy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0.tar.gz
