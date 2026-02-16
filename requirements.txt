@@ -1,8 +1,8 @@
-streamlit==1.32.2
-pandas==2.2.1
-numpy==1.26.4
-scikit-learn==1.4.1.post1
-spacy==3.7.2
-PyPDF2==3.0.1
-
+streamlit
+pandas
+numpy
+scikit-learn
+spacy
+PyPDF2
+sentence-transformers
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
