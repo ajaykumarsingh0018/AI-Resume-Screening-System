@@ -2,12 +2,9 @@ sentence-transformers
 scikit-learn
 streamlit
 numpy==1.26.4
-streamlit
 pandas
 numpy
 PyPDF2
-scikit-learn
-sentence-transformers
 spacy
 matplotlib
 spacy
