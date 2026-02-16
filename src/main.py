@@ -7,10 +7,15 @@ import pandas as pd
 import json
 import os
 import re
-import matplotlib.pyplot as plt
 import spacy
 
-nlp = spacy.load("en_core_web_sm")
+try:
+    nlp = spacy.load("en_core_web_sm")
+except:
+    import subprocess
+    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
+    nlp = spacy.load("en_core_web_sm")
+
 
 def extract_entities(text):
     doc = nlp(text)
